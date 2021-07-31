@@ -14,9 +14,9 @@
   }
   
   h1 {
-    margin-bottom: 15px;
     text-align: center;
     color: #3f3c3c;
+    margin-bottom: 15px;
     font-size: 50px;
   }
   
@@ -27,10 +27,10 @@
   }
   
   
-  .content-name{
+  .source-name{
+    border: 4px solid black;
     overflow: none;
     text-align: center;
-    border: 4px solid black;
     width: 100px;
     height: 40px;
     padding: 5px;
@@ -42,9 +42,9 @@
   }
   
   .content{
-    border: 5px solid black;
     width: 90%;
     height: auto;
+    border: 5px solid black;
     margin: 2.5%;
     color: black;
     font-size: 25px;
@@ -64,7 +64,7 @@
   .name3{
     background-color: #FFFF00;
   }
-  
+
   
   /********** Large devices only **********/
   @media (min-width: 992px) {
